@@ -1,0 +1,6 @@
+{
+    "name": "dannymills/flexi-energy-test-app",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
