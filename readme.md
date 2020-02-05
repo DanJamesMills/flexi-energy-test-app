@@ -15,7 +15,7 @@ http://login.flexi-orb.com/developer/apps
 Clone a copy of the sample app to your local machine.
 
 ```sh
-git clone https://github.com/libgit2/libgit2
+git clone git@github.com:DanJamesMills/flexi-energy-test-app.git
 cd flexi-energy-test-app
 ```
 
